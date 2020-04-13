@@ -11,9 +11,22 @@
 }
 
 .title {
-  @include flex-col-center();
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   font-size: 2rem;
   text-align: center;
-  margin-top: 2rem;
+  margin: 2rem;
+}
+
+title:hover {
+  z-index: 10;
+}
+
+.title .icon{
+  opacity: 0;
+  transition: opacity .5s;
+}
+
+.title:hover .icon {
+  opacity: 1;
+  cursor: pointer;
 }
