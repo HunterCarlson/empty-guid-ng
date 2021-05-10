@@ -20,7 +20,7 @@
     "@angular/material": "^11.2.11",
     "@angular/platform-browser": "^11.2.12",
     "@angular/platform-browser-dynamic": "^11.2.12",
-    "@angular/router": "^11.2.12",
+    "@angular/router": "^11.2.13",
     "@types/prismjs": "^1.16.5",
     "latest": "^0.2.0",
     "material-design-icons": "^3.0.1",
