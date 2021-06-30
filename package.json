@@ -24,7 +24,7 @@
     "@types/prismjs": "^1.16.5",
     "latest": "^0.2.0",
     "material-design-icons": "^3.0.1",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "rxjs": "^6.6.7",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
