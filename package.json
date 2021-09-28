@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "^12.2.7",
     "@angular/router": "^12.2.7",
     "@types/prismjs": "^1.16.6",
-    "latest": "^0.2.0",
     "material-design-icons": "^3.0.1",
     "prismjs": "^1.25.0",
     "rxjs": "^7.3.0",
